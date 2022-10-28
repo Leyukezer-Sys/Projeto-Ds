@@ -1,3 +1,3 @@
-#Projeto DS
+# Projeto WWWJL
 
-  Fazer o Plano completo para terminar o desenvolvimento das Funções do sistema! Dentro do Pacotes_Códigos estão todas as funções feitas até agora.
+Recursos de um sistema feito por alunos do Técnico de Informatica do Instituto Federal de Rondônia
